@@ -21,8 +21,8 @@ https://docs.python.org/3/library/logging.config.html#configuration-dictionary-s
 
 
 # Подготовка к запуску:
+0. Запуск только на python 3.7+
 1. Установка зависимостей:
-Запуск только на python 3.7+
 `pip3 install -r requirements.txt` 
  
 # Как использовать:
