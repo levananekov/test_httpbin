@@ -22,8 +22,9 @@ https://docs.python.org/3/library/logging.config.html#configuration-dictionary-s
 
 # Подготовка к запуску:
 1. Установка зависимостей:
-   `pip3 install -r requirements.txt` 
-
+Запуск только на python 3.7+
+`pip3 install -r requirements.txt` 
+ 
 # Как использовать:
 2. Запуск на *nix:
 ```
